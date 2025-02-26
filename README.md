@@ -61,7 +61,5 @@ Pull requests are welcome! Feel free to submit issues or suggest new features.
 ## 📜 License
 MIT License
 
-## 📬 Contact
-- Telegram: [YourBotName](https://t.me/YourBotUsername)
-- GitHub: [Your Repository](https://github.com/yourusername/ResumeIQ)
+
 
